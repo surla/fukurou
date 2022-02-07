@@ -1,6 +1,6 @@
 export const places = [
   {
-    id: "1",
+    id: "bc576a2c-eca5-4ccb-a494-c7b91d150564",
     imageUrl: "",
     title: "Kochia Hill",
     location: "Hitachinaka, Japan",
@@ -8,7 +8,7 @@ export const places = [
     category: "Nature",
   },
   {
-    id: "2",
+    id: "fdef7068-85d2-4e14-a0d9-58e2b7b7b674",
     imageUrl: "",
     title: "Kawachi Wisteria Tunnel",
     location: "Kitayushu, Japan",
@@ -16,7 +16,7 @@ export const places = [
     category: "Nature",
   },
   {
-    id: "3",
+    id: "1405e2d8-faf1-4dd6-a35f-26d80aed7dbd",
     imageUrl: "",
     title: "Giant Gundam Robot",
     location: "Tokyo, Japan",
@@ -25,7 +25,7 @@ export const places = [
     category: "Attraction",
   },
   {
-    id: "4",
+    id: "dad1aaeb-d727-4160-847a-52ef7b10e51b",
     imageUrl: "",
     title: "Ghibli Museum",
     location: "Tokyo, Japan",

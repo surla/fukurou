@@ -17,15 +17,15 @@ model User {
   email String? @unique
   image String?
   role Role @default(USER)
-  bookmarks Places[]
+  bookmarks Place[]
 }
 
 enum Role {
   USER
-  DEVELOPER
+  ADMIN
 }
 
-model Places {
+model Place {
   id String @id @default(uuid())
   createAt DateTime @default(now())
   updatedAt DateTime @updatedAt
